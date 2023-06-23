@@ -1,8 +1,8 @@
 # ai-dev
 
-🤖 AI tips and guides for developers
+🤖 A.I. tips and guides for developers
 
-Read the docs and browse the (mostly AI generated) code at [https://github.com/AlbertoBasalo/ai-dev](https://github.com/AlbertoBasalo/ai-dev)
+Read the _docs_ and browse the (mostly AI generated) `code` at [https://github.com/AlbertoBasalo/ai-dev](https://github.com/AlbertoBasalo/ai-dev)
 
 ---
 
