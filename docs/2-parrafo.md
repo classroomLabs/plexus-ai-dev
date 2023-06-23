@@ -1,4 +1,4 @@
-# Título de la charla: **GitHub Copilot:**Superando los desafíos y potenciando a los desarrolladores profesionales
+# Título de la charla: **GitHub Copilot:** Superando los desafíos y potenciando a los desarrolladores profesionales
 
 **Duración estimada: 3 horas**
 
